@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi  👋
+### Languages and tools
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" witdh="30" height="30">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" witdh="30" height="30">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" witdh="30" height="30">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" witdh="30" height="30">
 
 <!--
 **UmutAzak/umutazak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
